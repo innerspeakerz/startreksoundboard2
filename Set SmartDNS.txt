@@ -1,0 +1,4 @@
+#!/bin/bash
+networksetup -setdnsservers Wi-Fi 46.166.189.68 54.93.173.153
+cURL https://www.smartdnsproxy.com/api/IP/update/5ac07236510146f
+osascript -e 'quit app "Terminal"'
