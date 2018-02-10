@@ -4,9 +4,9 @@
     <string name="tab_text_2">Picard</string>
     <string name="tab_text_3">Worf</string>
     <string name="action_settings">Settings</string>
-    <string name="Engage">Engage!</string>
+    <string name="Engage1">Engage!</string>
     <string name="borg1">We are the Borg</string>
-    <string name="scorpion">Scorpion and the Fox</string>
-    <string name="warpcorebreach">Warp Core Breach</string>
-    <string name="stop">Stop</string>
+    <string name="scorpion1">Scorpion and the Fox</string>
+    <string name="warpcorebreach1">Warp Core Breach</string>
+    <string name="stop1">Stop</string>
 </resources>
